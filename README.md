@@ -17,7 +17,7 @@
   <h2> 🎼 Sobre nós</h2>
   <img align="right" src="juicy-girl-working-at-home.gif" height="300px">
   <div> 
-     <p>O <b>"SingNow é
+     <p>O <b>"SingNow"</b> é
 	 </p>
   </div>
 </div>
@@ -25,14 +25,14 @@
 <br>
 
 <!--Nossa equipe -->
-<div>
+
 	<h2> 🎤 Nossa equipe </h2>
-	<div align="center">
-		<a href="https://www.linkedin.com/in/gustavo-goulart-de-souza-a459ba234/" target="_blank"><img src="Gustavo.png" height="180"></a>
+	
+		<a href="https://www.linkedin.com/in/gustavo-goulart-de-souza-a459ba234/" target="_blank"><img src="https://avatars.githubusercontent.com/goulartgusta" height="110" width="110" ></a>
 		<a href="https://www.linkedin.com/in/kau%C3%A3-melo-086221235/" target="_blank"><img src="Kaua.png" height="180"></a>
 		<a href="https://www.linkedin.com/in/fabiola-scosta/?original_referer=" target="_blank"><img src="Fabiola.png" height="180"></a>
 		<a href="" target="_blank"><img src="Filipe.png" height="180"></a>
-	</div>
+	
 	<br>
 	<div align="center">
 		<a href="https://www.linkedin.com/in/italo-rodrigues-48a566250/" target="_blank"><img src="Italo.png" height="180"></a>
@@ -46,11 +46,6 @@
 <br>
 
 <!-- Tecnologias -->
-<div> 
-	
-	
-	
-</div>
 
 <div>
 	<h2> 🎸 Tecnologias que utilizamos</h2>
