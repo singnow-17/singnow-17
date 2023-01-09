@@ -14,7 +14,7 @@
 
 <!--Sobre nós-->
 <div>
-  <h2> 🎼 Sobre nós</h2>
+  <h2> 🎤 Sobre nós</h2>
   <img align="right" src="juicy-girl-working-at-home.gif" height="300px">
   <div> 
      <p>O <b>"SingNow"</b> é
@@ -26,7 +26,7 @@
 
 <!--Nossa equipe -->
 <div>
-	<h2> 🎤 Nossa equipe </h2>
+	<h2> 👨‍🎤 Nossa equipe </h2>
 	<div align="center">
 		<a href="" target="_blank"><img src="Gustavo.png" height="180"></a>
 		<a href="" target="_blank"><img src="Kaua.png" height="180"></a>
@@ -51,14 +51,18 @@
 	<h2> 🎸 Tecnologias que utilizamos</h2>
 	<br>
    	<div align="center">
-	<h3> :star2: Front-end :star2:</h3>
+	<h3> 🎼 Front-end 🎼</h3>
 	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
 	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<h3> :star2: Back-end :star2:</h3>
+	<h3> 🎼 Back-end 🎼</h3>
 	<img height="65" src="https://icongr.am/devicon/java-original.svg?size=66&color=000000">
 	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-	<h3> :star2: Banco de Dados :star2:</h3>
+	<h3> 🎼 Banco de Dados 🎼</h3>
 	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+	<h3> 🎼 Ferramentas 🎼</h3>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
   </div>
