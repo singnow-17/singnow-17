@@ -37,7 +37,7 @@
 	<div align="center">
 		<a href="" target="_blank"><img src="Italo.png" height="180"></a>
 		<a href="" target="_blank"><img src="Richard.png" height="180"></a>
-		<a href="" target="_blank"><img src="Victor.png" height="180"></a>
+		<a href="" target="_blank"><img src="Vitor.png" height="180"></a>
 		<a href="" target="_blank"><img src="Vitoria.png" height="180"></a>
 	</div>
 	
