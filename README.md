@@ -14,15 +14,18 @@
 
 <!--Sobre nós-->
 <div>
-	
   <h2>🎤 Sobre nós</h2>
+  
   <div> 
-	  
+  
   <img align="right" src="Music_festival.png" height="400px">
+  
      <p>O <b>"SingNow"</b> nasceu com o propósito de deixar para lá o "boca-a-boca", não precisa mais de recomendações o amigo do amigo, agora você pode se conectar com aquele artista que achou legal e queria contratar, ou aquele estabelecimento que achou maneiro e queria dar um show. O SingNow é uma plataforma onde o músico e o dono do estabelecimento podem se conectar e mostrarem seu potencial, podendo divulgar seu trabalho aos visitantes que os acompanham. Demos o primeiro passo para modernizar a forma que os músicos se divulgam e arrumar serviço e facilitamos a procura de novos músicos aos donos de estabelecimentos, tratados como parceiros no SingNow. Mas não só isso, queremos trazer um ambiente confortável para ambos se conectarem e divulgarem seu trabalho, alcançando mais visitantes, com isso, o artista se sente valorizado e o parciero satisfeito com a facilidade para sua procura.
 	 </p>
   </div>
+  
 </div>
+
 <br>
 <br>
 
