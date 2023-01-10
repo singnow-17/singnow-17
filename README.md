@@ -4,7 +4,7 @@
   <img src="logo.png" height="350">
   <br>
   <br>
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=F7F7F7&center=true&vCenter=true&width=500&lines=SingNow%2C+Mostre+seu+potencial!">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=6000&color=FA9201&center=true&vCenter=true&width=500&lines=SingNow%2C+Mostre+seu+potencial!">
 </div>
 <div align="center">
   <p>Nosso principal objetivo é ajudar na valorização e visibilidade dos músicos e no engajamento dos bares e restaurantes, e tendo o foco de facilitar a conexão entre os músicos e donos de estabelecimentos.</p>
