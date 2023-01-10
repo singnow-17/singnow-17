@@ -52,17 +52,18 @@
 	<br>
    	<div align="center">
 	<h3> 🎼 Front-end 🎼</h3>
-	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-	<img height="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+	<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img height="70" src="https://icongr.am/devicon/react-original.svg?size=100&color=000000" >
 	<h3> 🎼 Back-end 🎼</h3>
-	<img height="65" src="https://icongr.am/devicon/java-original.svg?size=66&color=000000">
-	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
+	<img height="70" src="https://icongr.am/devicon/java-original.svg?size=66&color=000000">
+	<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
 	<h3> 🎼 Banco de Dados 🎼</h3>
-	<img height="65" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+	<img height="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 	<h3> 🎼 Ferramentas 🎼</h3>
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="80px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" width="80px">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="80px">
+	<img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" >
+        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" >
+        <img height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" >
   </div>
