@@ -33,7 +33,6 @@
 		<a href="https://www.linkedin.com/in/kau%C3%A3-melo-086221235/" target="_blank"><img src="Kauã.png" height="170"></a>
 		<a href="https://www.linkedin.com/in/fabiola-scosta/" target="_blank"><img src="Fabiola.png" height="170"></a>
 		<a href="https://www.linkedin.com/in/filipe-damasceno/" target="_blank"><img src="Filipe.jpg" height="170"></a>
-		
 	</div>
 	<br>
 	<div align="center">
