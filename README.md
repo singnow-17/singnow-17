@@ -15,7 +15,7 @@
 <!--Sobre nós-->
 <div>
   <h2> 🎤 Sobre nós</h2>
-  <img align="right" src="Music Festival.gif" height="300px">
+  <img align="right" src="Music festival.gif" height="250px">
   <div> 
      <p>O <b>"SingNow"</b> nasceu com o propósito de deixar para lá o "boca-a-boca", não precisa mais de recomendações o amigo do amigo, agora você pode se conectar com aquele artista que achou legal e queria contratar, ou aquele estabelecimento que achou maneiro e queria dar um show. O SingNow é umap lataforma onde o músico e o dono do estabelecimento podem se conectar e mostrarem seu potencial, podendo divulgar seu trabalho aos visitantes que os acompanham.
 	 </p>
