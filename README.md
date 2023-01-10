@@ -29,17 +29,18 @@
 <div>
 	<h2> 👨‍🎤 Nossa equipe </h2>
 	<div align="center">
-		<a href="" target="_blank"><img src="Gustavo.png" height="170"></a>
-		<a href="" target="_blank"><img src="Kauã.png" height="170"></a>
-		<a href="" target="_blank"><img src="Fabiola.png" height="170"></a>
-		<a href="" target="_blank"><img src="Filipe.jpg" height="170"></a>
+		<a href="https://www.linkedin.com/in/gustavo-goulart-de-souza-a459ba234/" target="_blank"><img src="Gustavo.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/kau%C3%A3-melo-086221235/" target="_blank"><img src="Kauã.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/fabiola-scosta/" target="_blank"><img src="Fabiola.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/filipe-damasceno/" target="_blank"><img src="Filipe.jpg" height="170"></a>
+		
 	</div>
 	<br>
 	<div align="center">
-		<a href="" target="_blank"><img src="Italo.png" height="170"></a>
-		<a href="" target="_blank"><img src="Richard.png" height="170"></a>
-		<a href="" target="_blank"><img src="Victor.png" height="170"></a>
-		<a href="" target="_blank"><img src="Vitoria.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/italo-rodrigues-48a566250/" target="_blank"><img src="Italo.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/richardsantosss/" target="_blank"><img src="Richard.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/victor-as-perez/" target="_blank"><img src="Victor.png" height="170"></a>
+		<a href="https://www.linkedin.com/in/vit%C3%B3ria-caroline-dos-santos-/" target="_blank"><img src="Vitoria.png" height="170"></a>
 	</div>
 	
 </div>
