@@ -29,7 +29,7 @@
 	<h2> 👨‍🎤 Nossa equipe </h2>
 	<div align="center">
 		<a href="" target="_blank"><img src="Gustavo.png" height="180"></a>
-		<a href="" target="_blank"><img src="Kaua.png" height="180"></a>
+		<a href="" target="_blank"><img src="Kauã.png" height="180"></a>
 		<a href="" target="_blank"><img src="Fabiola.png" height="180"></a>
 		<a href="" target="_blank"><img src="Filipe.png" height="180"></a>
 	</div>
